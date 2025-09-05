@@ -1,0 +1,31 @@
+team_id,name,mascot,abbreviation,record,conference.conference_id,conference.sport_id,conference.name,division.division_id,division.conference_id,division.sport_id,division.name
+11,Atlanta,Hawks,ATL,40-42,39.0,4.0,Eastern Conference,17.0,39.0,4.0,Southeast
+1,Boston,Celtics,BOS,61-21,39.0,4.0,Eastern Conference,15.0,39.0,4.0,Atlantic
+2,Brooklyn,Nets,BKN,26-56,39.0,4.0,Eastern Conference,15.0,39.0,4.0,Atlantic
+12,Charlotte,Hornets,CHA,19-63,39.0,4.0,Eastern Conference,17.0,39.0,4.0,Southeast
+6,Chicago,Bulls,CHI,39-43,39.0,4.0,Eastern Conference,16.0,39.0,4.0,Central
+7,Cleveland,Cavaliers,CLE,64-18,39.0,4.0,Eastern Conference,16.0,39.0,4.0,Central
+26,Dallas,Mavericks,DAL,39-43,757.0,4.0,Western Conference,20.0,757.0,4.0,Southwest
+16,Denver,Nuggets,DEN,50-32,757.0,4.0,Western Conference,18.0,757.0,4.0,Northwest
+8,Detroit,Pistons,DET,44-38,39.0,4.0,Eastern Conference,16.0,39.0,4.0,Central
+21,Golden State,Warriors,GS,48-34,757.0,4.0,Western Conference,19.0,757.0,4.0,Pacific
+27,Houston,Rockets,HOU,52-30,757.0,4.0,Western Conference,20.0,757.0,4.0,Southwest
+9,Indiana,Pacers,IND,50-32,39.0,4.0,Eastern Conference,16.0,39.0,4.0,Central
+22,LA,Clippers,LAC,50-32,757.0,4.0,Western Conference,19.0,757.0,4.0,Pacific
+23,Los Angeles,Lakers,LAL,50-32,757.0,4.0,Western Conference,19.0,757.0,4.0,Pacific
+28,Memphis,Grizzlies,MEM,48-34,757.0,4.0,Western Conference,20.0,757.0,4.0,Southwest
+13,Miami,Heat,MIA,37-45,39.0,4.0,Eastern Conference,17.0,39.0,4.0,Southeast
+10,Milwaukee,Bucks,MIL,48-34,39.0,4.0,Eastern Conference,16.0,39.0,4.0,Central
+17,Minnesota,Timberwolves,MIN,49-33,757.0,4.0,Western Conference,18.0,757.0,4.0,Northwest
+29,New Orleans,Pelicans,NO,21-61,757.0,4.0,Western Conference,20.0,757.0,4.0,Southwest
+3,New York,Knicks,NYK,51-31,39.0,4.0,Eastern Conference,15.0,39.0,4.0,Atlantic
+18,Oklahoma City,Thunder,OKC,68-14,757.0,4.0,Western Conference,18.0,757.0,4.0,Northwest
+14,Orlando,Magic,ORL,41-41,39.0,4.0,Eastern Conference,17.0,39.0,4.0,Southeast
+4,Philadelphia,76ers,PHI,24-58,39.0,4.0,Eastern Conference,15.0,39.0,4.0,Atlantic
+24,Phoenix,Suns,PHX,36-46,757.0,4.0,Western Conference,19.0,757.0,4.0,Pacific
+19,Portland,Trailblazers,POR,36-46,757.0,4.0,Western Conference,18.0,757.0,4.0,Northwest
+25,Sacramento,Kings,SAC,40-42,757.0,4.0,Western Conference,19.0,757.0,4.0,Pacific
+30,San Antonio,Spurs,SA,34-48,757.0,4.0,Western Conference,20.0,757.0,4.0,Southwest
+5,Toronto,Raptors,TOR,30-52,39.0,4.0,Eastern Conference,15.0,39.0,4.0,Atlantic
+20,Utah,Jazz,UTAH,17-65,757.0,4.0,Western Conference,18.0,757.0,4.0,Northwest
+15,Washington,Wizards,WSH,18-64,39.0,4.0,Eastern Conference,17.0,39.0,4.0,Southeast
