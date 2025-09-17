@@ -16,3 +16,6 @@ https://musicbrainz.org/doc/MusicBrainz_API/Search
 https://acousticbrainz.readthedocs.io/api.html
 https://acousticbrainz.org/data#api-reference
 https://docs.google.com/document/d/1zAl2cyjZ_MGcldaUotDudpMUop9l-og2G7sRF68xM5E/edit?tab=t.0#heading=h.yyt9yl4wzo1p
+
+https://www.alphavantage.co/documentation/#brent
+https://fred.stlouisfed.org/searchresults/?st=inflation&t=viet%20nam&ob=sr&od=desc
