@@ -4,4 +4,4 @@ Việc cần làm:
     - Triển khai full luồng và tạo thành image or contaier để có thể dễ dàng sửa dụng cho mọi người muốn tham khảo
 
 
-    aaaa
+    sửa file reqirements
