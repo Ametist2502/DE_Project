@@ -1,0 +1,4 @@
+Việc cần làm:
+    - Tạo Swagger
+    - Viết tài liệu + nguồn dữ liệu khi triển khai các dashboard or UI trực quan
+    - Triển khai full luồng và tạo thành image or contaier để có thể dễ dàng sửa dụng cho mọi người muốn tham khảo
