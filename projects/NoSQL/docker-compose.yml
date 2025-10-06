@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  cassandra:
+    image: cassandra:latest
+    container_name: cassandra_node1
+    ports:
+      - "9042:9042"
+    environment:
+      - CASSANDRA_CLUSTER_NAME=TestCluster
+      - CASSANDRA_DC=DC1
+      - CASSANDRA_RACK=Rack1
+    volumes:
+      - ./docker/cassandra_data:/var/lib/cassandra
