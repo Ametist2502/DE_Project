@@ -87,7 +87,7 @@ class Car(Vehicle):
     
 class Motorcycle(Vehicle):
     def __init__(self, name, color, price, brand, speed, licenseRequired: bool):
-        super().__init__(name, color, price, brand, speed, licenseRequired)
+        super().__init__(name, color, price, brand)
         self._speed = speed
         self._licenseRequired = licenseRequired
     
