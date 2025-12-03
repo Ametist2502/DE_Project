@@ -21,3 +21,6 @@ https://www.alphavantage.co/documentation/#brent
 https://fred.stlouisfed.org/searchresults/?st=inflation&t=viet%20nam&ob=sr&od=desc
 
 https://olympus.mygreatlearning.com/courses/12956/modules/items/566644?pb_id=581 ^^ anhthach291@gmail.com
+
+
+https://futurexskills.com/courses/data-engineering
